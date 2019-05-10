@@ -1,6 +1,6 @@
 ### Visualising Pytorch transformations
 
-<strong> Below are the tranforms discussed in the python notebook along with their visualizations. </strong>
+<strong> Below are the transforms discussed in the python notebook along with their visualizations. </strong>
 * Resize transforms
 * Random Rotation transforms
 * Random Horizontal Flip Transforms
