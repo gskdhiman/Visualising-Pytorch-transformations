@@ -7,3 +7,6 @@
 * Center Crop Transforms
 * Random Grayscale Transforms
 * Normalize Transforms
+* Color Jitter Transforms
+
+
